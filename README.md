@@ -19,6 +19,9 @@ Dodge: Avoid the red polygons. Each collision depletes your shield by 20%.
 Collect: Gather the pulsing cyan pentagons to restore shields and boost your score significantly.
 Survive: The longer you stay alive, the faster the vectors approach.
 
+Offline 
+Download The  source code.zip  file and extract and run index.html file on chrome (or any local browser)
+
 Where to play??
 
 https://shaijujose308-ux.github.io/Neon-Vector-/
@@ -36,9 +39,13 @@ limitations under the License.
 http://www.apache.org/licenses/LICENSE-2.0
 
 Deon Jose
+
 Christo Sunil
+
 Milan
+
 Pranav
+
 Ron
 
 
